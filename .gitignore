@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (raw data not committed — use download_data.py)
+data/raw/
+data/processed/
+data/features/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Model artifacts
+*.pkl
+*.joblib
+*.pt
+*.pth
+models/
+
+# Monitoring reports
+monitoring/reports/*.html
+monitoring/reports/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
