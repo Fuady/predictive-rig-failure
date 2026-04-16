@@ -350,8 +350,3 @@ In a real deployment, `src/ingestion/download_data.py` would be replaced with a 
 MIT License — see [LICENSE](LICENSE)
 
 ---
-
-## Author
-
-Built as a portfolio project targeting Data Scientist roles in the Middle East Oil & Gas sector.  
-Methodology based on: ISO 13379 (Machinery condition monitoring), NASA Prognostics Center research, and IEEE PHM Challenge datasets.
