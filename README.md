@@ -318,20 +318,6 @@ Reports are generated weekly via `src/monitoring/drift_detector.py` and saved to
 
 ---
 
-## Skills Demonstrated
-
-| Category | Skills |
-|---|---|
-| Data Engineering | PySpark-style pipelines, Parquet/Delta Lake, time-series ETL |
-| Signal Processing | FFT, RMS, kurtosis, crest factor, bearing defect frequencies |
-| Machine Learning | XGBoost, LSTM, anomaly detection, time-series CV |
-| MLOps | MLflow tracking & registry, Docker, model versioning |
-| Production | FastAPI, REST API design, Pydantic validation |
-| Monitoring | Evidently AI, data drift detection, automated reporting |
-| Visualization | Streamlit dashboard, SHAP explainability, Plotly |
-| Domain Knowledge | RUL labeling, CMMS integration, O&G equipment context |
-
-
 ---
 
 ## License
