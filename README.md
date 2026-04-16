@@ -318,8 +318,6 @@ Reports are generated weekly via `src/monitoring/drift_detector.py` and saved to
 
 ---
 
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE)
