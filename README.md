@@ -331,17 +331,6 @@ Reports are generated weekly via `src/monitoring/drift_detector.py` and saved to
 | Visualization | Streamlit dashboard, SHAP explainability, Plotly |
 | Domain Knowledge | RUL labeling, CMMS integration, O&G equipment context |
 
----
-
-## Industry Context
-
-This methodology maps directly to production deployments at:
-- **ADNOC** (Abu Dhabi) — PI Historian on offshore platforms
-- **Saudi Aramco** — SAP PM + OSIsoft PI on gas compression trains
-- **PDO Oman** — Predictive maintenance on remote desert well sites
-- **KOC Kuwait** — Rotating equipment monitoring on oil gathering centers
-
-In a real deployment, `src/ingestion/download_data.py` would be replaced with a PI Web API connector pulling live tags from the historian.
 
 ---
 
